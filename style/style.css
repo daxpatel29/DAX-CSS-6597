@@ -1,0 +1,30 @@
+#box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8 {
+    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 640px;
+    height: 80px;
+    display: flex;
+
+}
+
+#n1 {
+    background-color: yellow ;
+    width: 80px;
+    height: 80px;
+}
+
+#n2 {
+    background-color: lightblue;
+    width: 80px;
+    height: 80px;
+}
+
+img
+{
+    padding: 30%;
+    width: 30px;
+    height: 30px;
+    
+    
+}
