@@ -1,0 +1,91 @@
+#login {
+    margin: 22%;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+
+    background-position: 100%;
+}
+
+#signup {
+    margin: 25%;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#nav{
+    margin: 200px;
+    display: inline;
+    font-size:x-large;
+}
+
+td{
+    padding: 30px;
+}
+
+
+#dry, #cube, #camera, #printer, #mobile
+{
+    display: inline-block;
+    border: 2px solid rebeccapurple;
+    margin: 10px;
+}
+
+#address {
+    display: inline-block;
+    margin: 50px;
+    border: 1px black;
+}
+
+#light{
+    color: gray;
+}
+
+#no{
+    text-decoration: line-through;
+}
+
+#green
+{
+    color: green;
+    display: inline;
+    font-size: small;
+}
+ 
+#price{
+    display: inline;
+
+}
+
+#ad, #UPI{
+    border: 1px;
+    background-color: skyblue;
+}
+
+#place{
+    background-color: orange;
+}
+
+
+#option{
+    background-color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size:xx-large;
+
+
+}
+
+#bold{
+    font-weight: bolder;
+}
+
+#lighter{
+    color: gray;
+    font-size: x-large;
+}
+
+#b{
+    font-weight: bolder;
+}
