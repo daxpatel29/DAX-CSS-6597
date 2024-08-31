@@ -1,0 +1,60 @@
+body{
+    background-color:cornflowerblue;
+}
+
+.box{
+    width: 50%;
+    background-color:aliceblue;
+    border: 5px black;
+    margin-left: 22%;
+    margin-top: 8%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bolder;
+    color: blueviolet;
+    padding-left: 16px;
+}
+
+#fname, #lname, #email, #phone{
+    width:  400px;
+    height: 20px;
+    margin: 20px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+::placeholder{
+    color: darkorchid;
+    font-size: larger;
+}
+
+#address{
+    width:  600px;
+    height: 30px;
+    margin: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ #msg{
+    width: 800px;
+    height: 50px;
+    margin: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ #submit{
+    background-color: rgb(255, 98, 255);
+    margin: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size:larger;
+ }
+
+ #close{
+  font-size: 18px; 
+  padding-left: 16px; 
+ }
